@@ -15,3 +15,5 @@ puts are_hungry
 #push moves one value in
 # unshift adds new elements to the front of the array
 # pop shows leading elements and removes last one
+
+# index positon or bracket position tells ruby how to put elements in arrays based on positon in the array. The first position is 0. 
