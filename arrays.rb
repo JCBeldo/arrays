@@ -17,3 +17,5 @@ puts are_hungry
 # pop shows leading elements and removes last one
 
 # index positon or bracket position tells ruby how to put elements in arrays based on positon in the array. The first position is 0. 
+puts names.zip [ages, heights]
+# zip takes arrays and nests them and orders them.
