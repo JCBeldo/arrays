@@ -1,0 +1,3 @@
+How confident do you feel with the content on Arrays so far? **I don't feel super confident.  The methods can be confusing**
+Is there any additional learning you need or want to do before moving to the next lesson? **Probably needs some more explanantion for the arrays, but maybe they require self study.**
+What questions do you have about Arrays? **How many are there?  What are some examples of irl applications?**   
